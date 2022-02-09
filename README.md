@@ -1,3 +1,4 @@
+#https://arxiv.org/pdf/2009.05673.pdf Applications of Deep Neural Networks with Keras
 # T81 558:Applications of Deep Neural Networks
 [Washington University in St. Louis](http://www.wustl.edu)
 
