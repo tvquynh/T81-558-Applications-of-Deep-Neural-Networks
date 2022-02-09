@@ -1,5 +1,4 @@
-https://arxiv.org/pdf/2009.05673.pdf Applications of Deep Neural Networks with Keras
-# T81 558:Applications of Deep Neural Networks
+# T81 558:Applications of Deep Neural Networks https://arxiv.org/pdf/2009.05673.pdf
 [Washington University in St. Louis](http://www.wustl.edu)
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
